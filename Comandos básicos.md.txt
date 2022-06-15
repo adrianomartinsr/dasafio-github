@@ -1,0 +1,10 @@
+# Comandos básicos
+
+### _dir_ (windows) _ls_ (linux) - Listagem de arquivos
+
+### _mkdir_ - Criação de pastas
+
+### _cd_ - Subir diretório
+
+### _cd .._ Descer diretório
+
